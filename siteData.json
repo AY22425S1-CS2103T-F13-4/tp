@@ -51,6 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "add-transaction-addt-index-d-description-amt-amount-o-other-party-dt-date": "Add Transaction addt INDEX d/DESCRIPTION amt/AMOUNT o/OTHER_PARTY dt/DATE",
         "list-transactions-listt-index": "List Transactions listt INDEX",
         "find-transactions-findt-index-keyword-keywords": "Find Transactions findt INDEX KEYWORD [KEYWORDS]",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
