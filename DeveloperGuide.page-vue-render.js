@@ -137,7 +137,7 @@ with(this){return _c('h3',{attrs:{"id":"add-transaction-addt-index-d-description
 with(this){return _c('h4',{attrs:{"id":"implementation-2"}},[_v("Implementation"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#implementation-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The add transaction mechanism is facilitated by the creation of a new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Person")]),_v(" with the updated transaction list,\nfollowed by replacing the target "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Person")]),_v(" in the Model with the newly created person by calling "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Model#setPerson(Person, Person))")]),_v(".\n"),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Model#updateFilteredList()")]),_v(" is then called to update the person list to contain all people, including the newly replaced Person.")])}
+with(this){return _c('p',[_v("The add transaction mechanism is facilitated by the creation of a new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Person")]),_v(" with the updated transaction list,\nfollowed by replacing the target "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Person")]),_v(" in the Model with the newly created person by calling "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Model#setPerson(Person, Person))")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The following sequence diagram shows an example execution of command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addt 1 ...")]),_v(".")])}
@@ -431,6 +431,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 12:25:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 13:56:53 GMT+8]")])])])}
 }];
   
