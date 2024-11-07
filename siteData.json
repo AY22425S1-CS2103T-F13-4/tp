@@ -53,7 +53,7 @@
         "implementation": "Implementation",
         "add-transaction-addt-index-d-description-amt-amount-o-other-party-dt-date": "Add Transaction addt INDEX d/DESCRIPTION amt/AMOUNT o/OTHER_PARTY dt/DATE",
         "list-transactions-listt-index": "List Transactions listt INDEX",
-        "find-transactions-findt-index-keyword-keywords": "Find Transactions findt INDEX KEYWORD [KEYWORDS]",
+        "find-transactions-findt-keyword-keywords": "Find Transactions findt KEYWORD [KEYWORDS]",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
