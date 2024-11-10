@@ -123,7 +123,8 @@
         "faq": "FAQ",
         "known-issues": "Known Issues",
         "future-enhancements": "Future Enhancements",
-        "command-summary": "Command Summary"
+        "command-summary": "Command Summary",
+        "parameter-summary": "Parameter Summary"
       },
       "headingKeywords": {}
     },
