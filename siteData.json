@@ -121,7 +121,8 @@
         "transaction-management-commands": "Transaction Management Commands",
         "data-management": "Data Management",
         "faq": "FAQ",
-        "known-issues": "Known issues",
+        "known-issues": "Known Issues",
+        "future-enhancements": "Future Enhancements",
         "command-summary": "Command Summary"
       },
       "headingKeywords": {}
