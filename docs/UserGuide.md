@@ -337,7 +337,8 @@ Clientell data are saved automatically as a JSON file `[JAR file location]/data/
 
 **Caution:**
 If your changes to the data file makes its format invalid, Clientell will discard all data and start with an empty data file at the next run.  Hence, it is recommended to take a backup of the file before editing it.<br>
-Furthermore, certain edits can cause the Clientell to behave in unexpected ways (e.g., if a value entered is outside the acceptable range). Therefore, edit the data file only if you are confident that you can update it correctly.
+Furthermore, certain edits can cause the Clientell to behave in unexpected ways (e.g., if a value entered is outside the acceptable range). Therefore, edit the data file only if you are confident that you can update it correctly.<br>
+Lastly, never update the JSON file while the app is running. As the data saves at the end of a session (e.g when you `exit`), it will override the JSON file (i.e you will lose all manual changes to the JSON)
 </box>
 
 --------------------------------------------------------------------------------------------------------------------
