@@ -120,10 +120,11 @@
         "client-management-commands": "Client Management Commands",
         "transaction-management-commands": "Transaction Management Commands",
         "data-management": "Data Management",
+        "command-summary": "Command Summary",
+        "parameter-summary": "Parameter Summary",
         "faq": "FAQ",
         "known-issues": "Known Issues",
-        "command-summary": "Command Summary",
-        "parameter-summary": "Parameter Summary"
+        "technical-help": "Technical Help"
       },
       "headingKeywords": {}
     },
